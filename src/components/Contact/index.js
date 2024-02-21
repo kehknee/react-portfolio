@@ -4,13 +4,13 @@ import emailjs from '@emailjs/browser'
 import './index.scss'
 
 const Contact = () => {
-  const form = useRef()
+  const refForm = useRef()
 
   const sendEmail = (e) => {
     e.preventDefault()
 
     emailjs
-      .sendForm('gmail', 'template_qw2d3ug', form.current, 'TPusuV24gQkg12h6j')
+      .sendForm('service_oo96lwa', 'template_mdtojc7', refForm.current, 'TPusuV24gQkg12h6j')
       .then(
         () => {
           alert('Message sent successfully!')
@@ -36,10 +36,10 @@ const Contact = () => {
             anything else.
           </p>
           <div className="contact-form">
-            <form ref={form} onSubmit={sendEmail}>
+            <form ref={refForm} onSubmit={sendEmail}>
               <ul>
                 <li className="half">
-                  <input placeholder="Name" type="text" name="name" required />
+                  <input placeholder="Name" type="text" name="name" id="from_name" required />
                 </li>
                 <li className="half">
                   <input

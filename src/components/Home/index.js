@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 import './index.scss'
-import React, { useEffect, useState } from "react";
-import AnimatedLetters from '../AnimatedLetters';
+import React from "react";
 import Loader from 'react-loaders'
 
 const Home = () => {

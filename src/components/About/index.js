@@ -1,6 +1,6 @@
 import './index.scss'
 import Loader from 'react-loaders'
-import Calculator from 'C:/Users/Kenneth Tran/OneDrive/Documents/VSC Code/react-portfolio/src/assets/images/calculator.png'
+import Calculator from 'C:/Users/Kenneth Tran/OneDrive/Documents/VSC Code/react-portfolio-cpsc362/src/assets/images/calculator.png'
 
 const About = () => {
   
