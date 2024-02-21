@@ -1,6 +1,7 @@
 Name: Kenneth Tran
 CWID: 886234392
 Email: kqmtran@csu.fullerton.edu
+Language: React / HTML / JavaScript
 
 References:
 
