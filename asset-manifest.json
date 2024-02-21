@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kehknee/react-portfolio/static/css/main.7930d865.css",
+    "main.js": "/kehknee/react-portfolio/static/js/main.05576e5d.js",
+    "static/js/787.4d9489ce.chunk.js": "/kehknee/react-portfolio/static/js/787.4d9489ce.chunk.js",
+    "static/media/calculator.png": "/kehknee/react-portfolio/static/media/calculator.7e3147aaf0f115931798.png",
+    "static/media/logo-k.png": "/kehknee/react-portfolio/static/media/logo-k.0932316bdc9122101a4c.png",
+    "static/media/helvetica-neu.ttf": "/kehknee/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/kehknee/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/kehknee/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/kehknee/react-portfolio/index.html",
+    "main.7930d865.css.map": "/kehknee/react-portfolio/static/css/main.7930d865.css.map",
+    "main.05576e5d.js.map": "/kehknee/react-portfolio/static/js/main.05576e5d.js.map",
+    "787.4d9489ce.chunk.js.map": "/kehknee/react-portfolio/static/js/787.4d9489ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7930d865.css",
+    "static/js/main.05576e5d.js"
+  ]
+}
