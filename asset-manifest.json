@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.8c0656cc.css",
-    "main.js": "/react-portfolio/static/js/main.9a2b0fc1.js",
-    "static/js/787.4d9489ce.chunk.js": "/react-portfolio/static/js/787.4d9489ce.chunk.js",
-    "static/media/calculator.png": "/react-portfolio/static/media/calculator.7e3147aaf0f115931798.png",
-    "static/media/logo-k.png": "/react-portfolio/static/media/logo-k.0932316bdc9122101a4c.png",
-    "static/media/helvetica-neu.ttf": "/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/react-portfolio/index.html",
-    "main.8c0656cc.css.map": "/react-portfolio/static/css/main.8c0656cc.css.map",
-    "main.9a2b0fc1.js.map": "/react-portfolio/static/js/main.9a2b0fc1.js.map",
-    "787.4d9489ce.chunk.js.map": "/react-portfolio/static/js/787.4d9489ce.chunk.js.map"
+    "main.css": "/static/css/main.c738e0ce.css",
+    "main.js": "/static/js/main.d8c1d0c7.js",
+    "static/js/787.4d9489ce.chunk.js": "/static/js/787.4d9489ce.chunk.js",
+    "static/media/calculator.png": "/static/media/calculator.7e3147aaf0f115931798.png",
+    "static/media/logo-k.png": "/static/media/logo-k.0932316bdc9122101a4c.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.c738e0ce.css.map": "/static/css/main.c738e0ce.css.map",
+    "main.d8c1d0c7.js.map": "/static/js/main.d8c1d0c7.js.map",
+    "787.4d9489ce.chunk.js.map": "/static/js/787.4d9489ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c0656cc.css",
-    "static/js/main.9a2b0fc1.js"
+    "static/css/main.c738e0ce.css",
+    "static/js/main.d8c1d0c7.js"
   ]
 }
